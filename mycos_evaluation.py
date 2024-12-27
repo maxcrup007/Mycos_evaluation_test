@@ -8,6 +8,7 @@ from selenium import webdriver
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
 from Form_checker import fetch_data_from_database
+from collect_token import fetch_token_from_database
 from link import url
 
 
